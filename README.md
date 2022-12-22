@@ -1,7 +1,7 @@
 # Prediction-of-Cognate-Reflex
 
 The goal of cognate prediction is to identify in a given language the words that are most likely to be cognates of terms in related languages, where cognates are words
-that have developed from a common ancestor word.Cognates allow language learners of all ages to usetheir new words right away.
+that have developed from a common ancestor word.Cognates allow language learners of all ages to use their new words right away.
 
 Technologies Used: CNN autoencoder, Tensorflow.<br/>
 Approach:<br/>
